@@ -4,8 +4,8 @@
 
 ##### Skills:
 -   ![Nest.JS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS) 
--   ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.JS) 
--   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express.JS) 
+-   ![Next.JS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=NextJS) 
+-   ![Express.JS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=ExpressJS) 
 -   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 -   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 -   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
