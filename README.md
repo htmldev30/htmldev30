@@ -3,7 +3,8 @@
 --- 
 
 ##### Skills:
--   ![Express.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Express.JS) 
+!   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-black?style=flat-square&logo=Nest.JS) 
+-   ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.JS) 
 -   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express.JS) 
 -   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 -   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
