@@ -3,7 +3,7 @@
 --- 
 
 ##### Skills:
--   ![React-Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=ReactNative)
+-   ![React-Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 -   ![Nest.JS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS) 
 -   ![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=Next.JS) 
 -   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express) 
