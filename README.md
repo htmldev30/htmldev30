@@ -19,7 +19,7 @@
 
 
 ##### Learning:
--  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat-square)
+-  ![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat-square)
 
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=htmldev30&show_icons=true&theme=dark" alt="htmldev30" /> 
