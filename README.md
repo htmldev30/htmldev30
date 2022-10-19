@@ -1,5 +1,5 @@
 ##### Bio: 
-### ✨ Everything is obselete.
+### 
 --- 
 
 ##### Skills:
