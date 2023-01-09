@@ -1,4 +1,4 @@
-##### Bio: 
+##### Bio: DON'T GET IMPOSTERS SYNDROME! YOU ARE GREAT!
 ### 
 --- 
 ##### Information:
