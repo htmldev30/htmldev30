@@ -2,7 +2,7 @@
 ### 
 --- 
 ##### Information:
-- I am using GitHub to showcase my growth as a developer and my eagearness to learn more computer science. 
+- I am using GitHub to showcase my growth as a developer and my eagerness to learn more computer science. 
 
 - Please note that I do not often use GitHub with everyday coding. If I do use GitHub, I mainly develop projects locally, then upload it to GitHub. So the GitHub contributions section is not correct representation of my programming activities. 
 
