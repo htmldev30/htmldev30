@@ -1,4 +1,4 @@
-##### Bio: DON'T GET IMPOSTERS SYNDROME! YOU ARE GREAT!
+##### Bio: DON'T GET IMPOSTOR SYNDROME! YOU ARE GREAT!
 ### 
 --- 
 ##### Information:
