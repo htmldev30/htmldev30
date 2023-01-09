@@ -1,7 +1,9 @@
 ##### Bio: 
-### 
+###
 --- 
-
+##### Information:
+- Please note that I do not often use GitHub with everyday coding. I mainly develop a project locally, then upload it to GitHub. So the GitHub contributions section is not an entirely correct representation of my programming activities. 
+- Currently, I have been working on smaller-scaled projects on my local computer (not GitHub). These mainly have to do with visualizing math or art with Python Turtle.
 ##### Skills:
 -   ![React-Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 -   ![Nest.JS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS) 
