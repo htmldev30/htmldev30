@@ -8,7 +8,7 @@
 ##### Please Consider Reading:
 - I am using GitHub to showcase my growth as a developer and my eagerness to learn more computer science. 
 
-- Please note that I do not often use GitHub with everyday coding. If I do use GitHub, I mainly develop projects locally, then upload it to GitHub. So the GitHub contributions section is not correct representation of my programming activities. 
+- Please note that I do not often use GitHub with everyday coding. If I do use GitHub, I mainly develop projects locally, then upload it to GitHub. So the GitHub contributions section is not a correct representation of my programming activities. 
 
 - Currently, I have been working on smaller-scaled projects on my local computer (not GitHub). These mainly have to do with visualizing math or art with Python Turtle.
 ##### Skills:
