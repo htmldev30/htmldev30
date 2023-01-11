@@ -1,5 +1,9 @@
 # Bio: DON'T GET IMPOSTOR SYNDROME! YOU ARE GREAT!
-##### Apologies for the unprofessional username. I created this account when I was young, and changing the username will affect repositories. 
+##### Apologies for the not entirely professional username. I created this account when I was young, and changing the username will affect repositories. 
+##### htmldev30 means:
+###### HTML = the markup coding language I first learned. 
+###### Dev = means developer
+###### 30 = random number.
 --- 
 ##### Please Consider Reading:
 - I am using GitHub to showcase my growth as a developer and my eagerness to learn more computer science. 
