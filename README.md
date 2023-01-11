@@ -1,5 +1,5 @@
-##### Bio: DON'T GET IMPOSTOR SYNDROME! YOU ARE GREAT!
-### Apologies for the unprofessional username. I created this account when I was young, and changing the username will affect repositories. 
+# Bio: DON'T GET IMPOSTOR SYNDROME! YOU ARE GREAT!
+##### Apologies for the unprofessional username. I created this account when I was young, and changing the username will affect repositories. 
 --- 
 ##### Please Consider Reading:
 - I am using GitHub to showcase my growth as a developer and my eagerness to learn more computer science. 
